@@ -1,0 +1,114 @@
+[
+  {
+    "id": "overthinking",
+    "title": "Overthinking & Anxious Mind",
+    "description": "When thoughts race uncontrollably, imagining worst-case scenarios and feeling paralyzed by worry.",
+    "icon": "Brain",
+    "samplePrompts": [
+      "I cannot stop overthinking about the future and what might go wrong.",
+      "My mind is constantly racing at night and I feel like I have lost control of my thoughts.",
+      "How do I quiet the anxiety inside me when everything feels overwhelming?"
+    ],
+    "keywords": ["overthinking", "anxiety", "mind", "worry", "racing thoughts", "restless", "fear of future", "panic", "sleepless", "overwhelmed"],
+    "primaryVerse": "6.35",
+    "secondaryVerses": ["6.5", "6.26", "2.66"]
+  },
+  {
+    "id": "career",
+    "title": "Career, Ambition & Failure",
+    "description": "Navigating professional setbacks, fear of failure, burnout, and finding purpose without obsessing over outcomes.",
+    "icon": "Briefcase",
+    "samplePrompts": [
+      "I worked so hard for a promotion or exam and failed. I feel completely worthless.",
+      "I am burning out trying to prove myself to everyone and constantly comparing myself to peers.",
+      "How can I stay motivated to work without being terrified of failing?"
+    ],
+    "keywords": ["career", "job", "work", "failure", "success", "exam", "promotion", "burnout", "comparison", "results", "outcome", "ambition"],
+    "primaryVerse": "2.47",
+    "secondaryVerses": ["2.48", "2.50", "3.35", "4.20"]
+  },
+  {
+    "id": "relationships",
+    "title": "Relationships & Heartbreak",
+    "description": "Healing from broken trust, detachment, boundary setting, and learning to love without suffocating expectations.",
+    "icon": "HeartHandshake",
+    "samplePrompts": [
+      "Someone I trusted deeply broke my trust or walked away. How do I let go?",
+      "I get excessively attached to people and then suffer when they don't value me.",
+      "How do I deal with constant conflict and hostility in my relationship?"
+    ],
+    "keywords": ["relationship", "heartbreak", "breakup", "love", "attachment", "partner", "friendship", "trust", "betrayal", "expectations", "letting go"],
+    "primaryVerse": "12.13",
+    "secondaryVerses": ["12.14", "5.18", "6.29", "2.62"]
+  },
+  {
+    "id": "family",
+    "title": "Family Pressure & Expectations",
+    "description": "Managing expectations from parents, guilt over choosing your own path, and family disagreements.",
+    "icon": "Users",
+    "samplePrompts": [
+      "My parents have high expectations for my life, but my heart yearns for something else. I feel guilty.",
+      "There is constant friction and misunderstanding within my household.",
+      "How do I fulfill my duty to my family without sacrificing my own integrity?"
+    ],
+    "keywords": ["family", "parents", "children", "relatives", "guilt", "expectations", "household", "duty to parents", "pressure", "generation gap"],
+    "primaryVerse": "3.35",
+    "secondaryVerses": ["2.11", "3.21", "18.47"]
+  },
+  {
+    "id": "fear_and_grief",
+    "title": "Fear, Grief & Loss",
+    "description": "Coping with the loss of a loved one, existential dread, fear of sickness, and finding inner solace.",
+    "icon": "Flame",
+    "samplePrompts": [
+      "I recently lost someone I love and the grief feels like a physical ache in my chest.",
+      "I am gripped by an intense fear of sickness, aging, or losing people close to me.",
+      "Why is there so much suffering and impermanence in this world?"
+    ],
+    "keywords": ["grief", "loss", "death", "passed away", "crying", "sorrow", "mourning", "bereavement", "impermanence", "fear of death", "sickness"],
+    "primaryVerse": "2.22",
+    "secondaryVerses": ["2.20", "2.27", "4.10", "2.14"]
+  },
+  {
+    "id": "decisions_and_dharma",
+    "title": "Moral Dilemmas & Big Decisions",
+    "description": "Standing at a crossroads, feeling lost about the right action, and finding clarity when all options seem hard.",
+    "icon": "Compass",
+    "samplePrompts": [
+      "I am facing a major life decision and cannot tell which path is right or ethical.",
+      "I feel completely lost and have lost my sense of purpose.",
+      "How do I distinguish between ego's desire and what is truly my Dharma?"
+    ],
+    "keywords": ["decision", "crossroads", "dilemma", "lost", "purpose", "dharma", "right action", "confused", "choosing path", "ethics"],
+    "primaryVerse": "2.7",
+    "secondaryVerses": ["18.63", "18.66", "3.35"]
+  },
+  {
+    "id": "anger_and_resentment",
+    "title": "Anger & Bitter Resentment",
+    "description": "Overcoming deep-seated anger, irritation with others, and toxic resentment eating away at peace.",
+    "icon": "Sparkles",
+    "samplePrompts": [
+      "I get triggered easily and say hurtful things in anger that I later regret.",
+      "I hold deep resentment against someone who wronged me in the past.",
+      "How do I dissolve the anger burning inside me?"
+    ],
+    "keywords": ["anger", "rage", "temper", "irritation", "resentment", "grudge", "forgiveness", "bitterness", "revenge"],
+    "primaryVerse": "2.63",
+    "secondaryVerses": ["2.62", "16.21", "12.13"]
+  },
+  {
+    "id": "loneliness_and_worth",
+    "title": "Loneliness & Self-Doubt",
+    "description": "Feeling unseen, unloved, defective, or isolated even in a crowded world.",
+    "icon": "Feather",
+    "samplePrompts": [
+      "I feel deeply lonely, like nobody truly understands or cares about me.",
+      "I struggle with low self-esteem and feel fundamentally inadequate.",
+      "How can I find peace when I feel isolated and disconnected from everyone?"
+    ],
+    "keywords": ["lonely", "alone", "isolated", "unloved", "self-esteem", "worthless", "inadequate", "self-doubt", "abandoned"],
+    "primaryVerse": "9.29",
+    "secondaryVerses": ["6.5", "6.30", "15.15"]
+  }
+]
