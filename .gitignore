@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Build Output
+dist/
+build/
+*.zip
+
+# Raw Data Clone (compiled data is in public/data & server/data)
+data/bhagavad-gita-raw/
+
+# Environment Variables & Secrets
+.env
+.env.local
+.env.*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# Editor & OS Files
+.DS_Store
+.vscode/
+.idea/
+*.swp
